@@ -9,35 +9,35 @@ This project analyzes restaurant data, including menu items and order details, t
 5. 2025-01-21 was the best day for orders and revenue.
 6. A small portion of data has missing values, which should be reviewed.
 
-### Category Analysis:
+### 1.Category Analysis:
 
 Analyzing which category (American, Asian, Mexican, Italian) has the highest number of orders and revenue.
 #### Most Popular Category: 
 The Italian category generates the highest revenue and has the most orders, followed by Italian.
 Revenue per Order: Italian orders have the highest average revenue per order.
 
-###  Top-Selling Items:
+###  2.Top-Selling Items:
 
 Analyzing the top-selling items across all categories and identifying which items contribute the most to revenue.
 #### Insights:
 Top-Selling Item: The Cheeseburger has the highest number of orders and revenue.
 Revenue Contribution: Cheeseburger significantly contributes to American category revenue.
 
-### Daily Sales Trends:
+### 3.Daily Sales Trends:
 
 Identifying peak order times and low-performing periods.
 #### Insights:
 Peak Hour: The 6:00 PM slot sees the highest number of orders and revenue, making it a critical time for staffing and promotions.
 Off-Peak: The 9:00 PM hour sees fewer orders, suggesting potential for promotional strategies to increase business.
 
-### Frequent Customers:
+### 4.Frequent Customers:
 
 Identifying repeat customers who make large purchases.
 #### Insights:
 Customers typically place 2 to 3 items per order, but larger orders (4+ items) contribute more significantly to revenue.
 Repeat customers may be identified based on order frequency and value.
 
-###  Revenue by Day:
+###  5.Revenue by Day:
 
 Analyzing daily sales trends to see when business peaks.
 #### Insights:
