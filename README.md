@@ -1,5 +1,6 @@
 # MenuMetrics
 This project analyzes restaurant data, including menu items and order details, to uncover insights into pricing, category performance, customer preferences, and sales trends. It evaluates popular items, top orders, and revenue drivers, providing a comprehensive overview of menu performance and customer ordering behavior.
+(SQL is utilized to analyze data located within the menuMetrics folder. This folder contains three SQL files such as restaurant_analysis, restarantObject2 and resturantObject3.)
 
 ## Insights
 1. The Italian category is the most popular and generates the highest revenue.
